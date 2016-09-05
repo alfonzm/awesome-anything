@@ -24,6 +24,7 @@ A curated list of anything awesome that I might probably use later on. Inspired 
 - [Reveal.JS](https://github.com/hakimel/reveal.js) - HTML presentation framework
 - [Cleave.js](http://nosir.github.io/cleave.js/) - format input text while typing
 - [Grade.js](http://benhowdle.im/grade/) - produces complimentary gradients generated from the top 2 dominant colours in supplied images
+- [Granim.js](https://sarcadass.github.io/granim.js/index.html) - interactive gradients animations
 
 ### Electron
 - [PhotonKit](http://photonkit.com) - Electron UI components
