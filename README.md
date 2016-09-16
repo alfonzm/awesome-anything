@@ -25,6 +25,7 @@ A curated list of anything awesome that I might probably use later on. Inspired 
 - [Cleave.js](http://nosir.github.io/cleave.js/) - format input text while typing
 - [Grade.js](http://benhowdle.im/grade/) - produces complimentary gradients generated from the top 2 dominant colours in supplied images
 - [Granim.js](https://sarcadass.github.io/granim.js/index.html) - interactive gradients animations
+- [timeago.js](https://github.com/hustcc/timeago.js) - tiny library to formate date times
 
 ### Electron
 - [PhotonKit](http://photonkit.com) - Electron UI components
