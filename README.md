@@ -1,20 +1,23 @@
 # Awesome Anything
-A curated list of anything awesome that I might probably use later on. Inspired by awesome-x curation lists on GitHub.
+
+> A curated list of anything awesome that I might probably use later on—libraries, tools, frameworks, microframeworks, useless stuff, whatever. Inspired by [awesome-x curation lists](https://github.com/sindresorhus/awesome) on GitHub.
 
 ## Contents
 
 - [Development](development)
-    - [Web](web)
+    - [Web](web-development-tools)
     - [Javascript](javascript)
     - [Electron](electron)
 - [Apps](apps)
 
 ## Development
 
-### Web
+### Web Development Tools
 - Fake REST API for testing
 	- [JSON Placeholder](http://jsonplaceholder.typicode.com)
 	- [HTTPBin](http://httpbin.org)
+- Dummy data generator (JSON, CSV, SQL, etc)
+	- [Mockaroo](https://www.mockaroo.com)
 - Image placeholders
 	- [Placehold.it](http://www.placehold.it)
 	- [LoremPixel](http://lorempixel.com)
