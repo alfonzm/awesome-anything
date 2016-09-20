@@ -1,6 +1,6 @@
-# Awesome Anything
+# Awesome Anything ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> A curated list of anything awesome that I might probably use later on—libraries, tools, frameworks, microframeworks, useless stuff, whatever. Inspired by [awesome-x curation lists](https://github.com/sindresorhus/awesome) on GitHub.
+> [@alfonzm's](http://github.com/AlfonzM) personal curated list of anything awesome—libraries, tools, frameworks, microframeworks, useless stuff, whatever. Inspired by [awesome-x curation lists](https://github.com/sindresorhus/awesome) on GitHub.
 
 ## Contents
 
