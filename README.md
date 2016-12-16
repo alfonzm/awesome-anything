@@ -29,6 +29,7 @@
 - [Grade.js](http://benhowdle.im/grade/) - produces complimentary gradients generated from the top 2 dominant colours in supplied images
 - [Granim.js](https://sarcadass.github.io/granim.js/index.html) - interactive gradients animations
 - [timeago.js](https://github.com/hustcc/timeago.js) - tiny library to formate date times
+- [voca.js](https://vocajs.com) - string manipulation library
 
 ### Electron
 - [PhotonKit](http://photonkit.com) - Electron UI components
