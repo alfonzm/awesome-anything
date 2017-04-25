@@ -22,6 +22,7 @@
 	- [Placehold.it](http://www.placehold.it)
 	- [LoremPixel](http://lorempixel.com)
 	- [Unsplash.it](https://unsplash.it)
+- [Docpress](https://github.com/docpress/docpress) - for creating documentations using Markdown
 
 ### Javascript
 - [Reveal.JS](https://github.com/hakimel/reveal.js) - HTML presentation framework
