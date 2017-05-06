@@ -8,6 +8,7 @@
     - [Web](web-development-tools)
     - [Javascript](javascript)
     - [Electron](electron)
+    - [iOS](ios)
 - [Apps](apps)
 
 ## Development
@@ -34,6 +35,12 @@
 
 ### Electron
 - [PhotonKit](http://photonkit.com) - Electron UI components
+
+### iOS
+- [Sublime Text Xcode Plugin](https://github.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text) - Open and edit Xcode files in Sublime Text
+- Sidebar Slide menus
+	- https://github.com/dekatotoro/SlideMenuControllerSwift
+	- https://github.com/jonkykong/SideMenu
 
 ## Apps
 - [Marp](https://github.com/yhatt/marp) - markdown presentation writer
