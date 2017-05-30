@@ -4,12 +4,12 @@
 
 ## Contents
 
-- [Development](development)
-    - [Web](web-development-tools)
-    - [Javascript](javascript)
-    - [Electron](electron)
-    - [iOS](ios)
-- [Apps](apps)
+- [Development](#development)
+    - [Web](#web-development-tools)
+    - [Javascript](#javascript)
+    - [Electron](#electron)
+    - [iOS](#ios)
+- [Apps](#apps)
 
 ## Development
 
@@ -41,6 +41,7 @@
 - Sidebar Slide menus
 	- https://github.com/dekatotoro/SlideMenuControllerSwift
 	- https://github.com/jonkykong/SideMenu
+- [Dollar/Cent](https://www.dollarswift.org/) - like Lodash for Swift
 
 ## Apps
 - [Marp](https://github.com/yhatt/marp) - markdown presentation writer
