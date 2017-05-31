@@ -44,6 +44,8 @@
 	- https://github.com/jonkykong/SideMenu
 - [Dollar/Cent](https://www.dollarswift.org/) - like Lodash for Swift
 - [Chameleon](https://github.com/ViccAlexander/Chameleon)- Color management framework
+- [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - wrapper for NSUserDefaults
+- [Timepiece](https://github.com/naoty/Timepiece) - date/time handling
 
 ## Apps
 - [Marp](https://github.com/yhatt/marp) - markdown presentation writer
