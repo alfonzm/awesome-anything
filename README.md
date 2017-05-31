@@ -46,7 +46,7 @@
 - [Chameleon](https://github.com/ViccAlexander/Chameleon)- Color management framework
 - [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - wrapper for NSUserDefaults
 - [Timepiece](https://github.com/naoty/Timepiece) - date/time handling
-- [https://github.com/onevcat/Kingfisher/](https://github.com/onevcat/Kingfisher/) - Image downloading and caching
+- [Kingfisher](https://github.com/onevcat/Kingfisher/) - image downloading and caching
 
 ## Apps
 - [Marp](https://github.com/yhatt/marp) - markdown presentation writer
