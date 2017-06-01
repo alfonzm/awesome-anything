@@ -37,16 +37,19 @@
 - [PhotonKit](http://photonkit.com) - Electron UI components
 
 ### iOS
-- [33 iOS open source libraries](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449)
-- [Sublime Text Xcode Plugin](https://github.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text) - Open and edit Xcode files in Sublime Text
-- Sidebar Slide menus
-	- https://github.com/dekatotoro/SlideMenuControllerSwift
-	- https://github.com/jonkykong/SideMenu
-- [Dollar/Cent](https://www.dollarswift.org/) - like Lodash for Swift
-- [Chameleon](https://github.com/ViccAlexander/Chameleon)- Color management framework
-- [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - wrapper for NSUserDefaults
-- [Timepiece](https://github.com/naoty/Timepiece) - date/time handling
-- [Kingfisher](https://github.com/onevcat/Kingfisher/) - image downloading and caching
-
+- Development
+	- [Sublime Text Xcode Plugin](https://github.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text) - Open and edit Xcode files in Sublime Text
+	- Sidebar Slide menus
+		- https://github.com/dekatotoro/SlideMenuControllerSwift
+		- https://github.com/jonkykong/SideMenu
+	- [Dollar/Cent](https://www.dollarswift.org/) - like Lodash for Swift
+	- [Chameleon](https://github.com/ViccAlexander/Chameleon)- Color management framework
+	- [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - wrapper for NSUserDefaults
+	- [Timepiece](https://github.com/naoty/Timepiece) - date/time handling
+	- [Kingfisher](https://github.com/onevcat/Kingfisher/) - image downloading and caching
+- Resources
+	- [How I Reduced a View Controller by ~100 Lines](http://roadfiresoftware.com/2014/03/how-i-reduced-a-view-controller-by-100-lines-from-400-to-300/)
+	- [33 iOS open source libraries](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449)
+	
 ## Apps
 - [Marp](https://github.com/yhatt/marp) - markdown presentation writer
