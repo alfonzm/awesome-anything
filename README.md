@@ -51,6 +51,9 @@
 
 ### Electron
 - [PhotonKit](http://photonkit.com) - Electron UI components
-	
+
+## Design
+- [Coolhue - nice gradient hues](https://webkul.github.io/coolhue/)
+
 ## Apps
 - [Marp](https://github.com/yhatt/marp) - markdown presentation writer
